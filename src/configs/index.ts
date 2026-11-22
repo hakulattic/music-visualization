@@ -3,7 +3,7 @@ export const { BASE_URL, PROD } = import.meta.env;
 export const META_INFO = {
   TITLE: '音乐可视化',
   AUTHOR: 'Hakula',
-  REPO_URL: 'https://github.com/hakula139/music-visualization',
+  REPO_URL: 'https://github.com/hakulattic/music-visualization',
 };
 
 export const ANALYZER = {
